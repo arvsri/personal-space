@@ -1,0 +1,159 @@
+{
+  "basics": {
+    "name": "Arvind Srivastava",
+    "label": "Senior Manager at Macquarie Global",
+    "image": "https://media.licdn.com/dms/image/C4D03AQFXiOc_71pwqg/profile-displayphoto-shrink_400_400/0/1657463662943?e=1681344000&v=beta&t=o_OkRpViZ4Lv9kQmIXn_5LPyHGkmy0s44FXCkMJp48E",
+    "email": "arvind.srivastava@mail.com",
+    "phone": "(+91)665-073-9922",
+    "url": "https://www.linkedin.com/in/arvind.srivastava/",
+    "summary": "Engineering manager with extensive experience in leading large teams, hands on engineer with passion for design and development of complex and large sized applications.\\Domain expert in financial service industry especially in trading and risk management, corporate actions processing and Wealth management.",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "arvindsri84",
+        "url": "https://twitter.com/arvindsri84"
+      },
+      {
+        "network": "Github",
+        "username": "arvsri",
+        "url": "https://github.com/arvsri"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Pied Piper",
+      "location": "Palo Alto, CA",
+      "description": "Awesome compression company",
+      "position": "CEO/President",
+      "url": "http://piedpiper.example.com",
+      "startDate": "2015-11-12",
+      "endDate": "2020-06-01",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+	{
+      "name": "Publicis Sapient",
+      "location": "Delhi, India",
+      "description": "Awesome consulting company",
+      "position": "Specialist Platform",
+      "url": "https://www.publicissapient.com/",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Lead developer with Wellington Management’s Fixed Income Trading Team",
+      "highlights": [
+        "Let the migration of Fixed Income Trading applications to AWS cloud platform.",
+        "Cloud migration strategy and planning, application upgrades for cloud readiness, migration and support",
+        "Let the SCM migration from AccuRev to Git, development and release strategy, CI/CD pipelines setup"
+      ]	
+	}
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "url": "http://coderdojo.example.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Oklahoma",
+      "url": "https://www.ou.edu/",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "Master",
+      "keywords": [
+        "Google Cloud",
+        "AWS",
+        "Digital Ocean"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+	{
+      "language": "German",
+      "fluency": "Professional Working Proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    },
+    {
+      "name": "Soccer",
+      "keywords": [
+        "Sports",
+        "Fitness"
+      ]
+    }	
+  ],
+  "references": [
+    {
+      "name": "John-Noel Rouvignac",
+      "reference": "I had the pleasure to work with Arvind over my tenure with Information Mosaic. Arvind demonstrated an ability to quickly grasp the business, new requirements and complex code. He showed an ability to direct other people and produce quality code while modifying this complex code base. He is a great software developer that I definitely recommend."
+    }
+  ]
+}
